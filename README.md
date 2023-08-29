@@ -1,7 +1,7 @@
 # 🙆‍♀️ Hi, I’m Celia! #
 <img src="https://cdn.intra.42.fr/users/5fe8cfdf6fa20d5138afef5e96cbb65f/cmateos-.JPG" width="300" height="450">
 
-### 🌱 I am a student at the 42 madrid school, where I am learning C and C++ languages. ###
+### 🌱 I am a student at the 42 madrid school, where I am learning C, C++ and a lot more. ###
 <img src="https://candidatura.42madrid.com/uploads/admissions/campus/logo_website/4/Logo_42_Version_D_01.svg" width="300" height="100">
 
 ### 👀 I’m interested in improving people's quality of life through the development of technological strategies. ###
